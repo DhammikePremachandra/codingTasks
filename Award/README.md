@@ -1,10 +1,10 @@
-**Triathlon Time Calculator**
+# Triathlon Time Calculator**
 
 This Python script calculates the total time taken for a triathlon 
 based on the input of swimming, cycling, and running times in minutes. 
 It then assigns awards according to the total time achieved.
 
-**Description**
+## Description
 
 This script is designed to help athletes calculate their total time for 
 completing a triathlon, which includes swimming, cycling, and running 
@@ -16,12 +16,12 @@ conditional statements to make decisions in Python programming.
 Understanding these concepts is essential for building interactive and 
 dynamic applications.
 
-**Table of Contents**
+## Table of Contents
 
 1. [Installation](Installation)
 2. [Usage](Usage)
 
-**Installation**
+## Installation
 
 To use this script, follow these steps:
 
@@ -32,7 +32,7 @@ and install Python from [python.org](https://www.python.org/).
 where the [`award.py`](award.py) file is located.
 4. Run the script by typing `python award.py` and pressing Enter.
 
-**Usage**
+## Usage
 
 Once the script is running, it will prompt you to enter the time taken 
 for swimming, cycling, and running events, respectively. Input the time 
