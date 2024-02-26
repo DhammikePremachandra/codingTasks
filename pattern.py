@@ -13,8 +13,8 @@ for i in range(1 ,10):
     else:
         print("*" * (10 - i)) 
 
-# Program that counts how many instances of a character there are in 
-# a string.
+"""Program that counts how many instances of a character there are in 
+# a string."""
 count = 0
 sentence = input("Please enter your string: ").lower()
 # Validate the user's input for char to count.
