@@ -1,4 +1,4 @@
-# Triathlon Time Calculator**
+# Triathlon Time Calculator
 
 This Python script calculates the total time taken for a triathlon 
 based on the input of swimming, cycling, and running times in minutes. 
