@@ -49,17 +49,22 @@ and interests.
 
 Below is a list of tasks included in this repository:
 
-1. [Task 1](https://github.com/DhammikePremachandra/codingTasks/tree/main/Alternate%20Case%20Converter)
-2. [Task 2](https://github.com/DhammikePremachandra/codingTasks/tree/main/Calculate%20the%20Total%20Holiday%20Cost)
-3. [Task 3](https://github.com/DhammikePremachandra/codingTasks/tree/main/Calculate%20the%20Total%20Stock%20Worth%20in%20the%20Cafe)
-4. [Task 4](https://github.com/DhammikePremachandra/codingTasks/tree/main/Continuously%20Calculate%20Average%20of%20User%20Inputs)
-5. [Task 5](https://github.com/DhammikePremachandra/codingTasks/tree/main/Extracting%20Names%20and%20Birthdates%20from%20Text%20File)
-6. [Task 6](https://github.com/DhammikePremachandra/codingTasks/tree/main/Get%20Three%20Different%20Integers%20from%20User)
-7. [Task 7](https://github.com/DhammikePremachandra/codingTasks/tree/main/Output%20of%20the%20Arrow%20Head%20Shape%20Star%20Pattern)
-8. [Task 8](https://github.com/DhammikePremachandra/codingTasks/tree/main/Register%20Students%20for%20an%20Exam%20Venue)
-9. [Task 9](https://github.com/DhammikePremachandra/codingTasks/tree/main/Sentence%20Manipulation%20Program)
-10. [Task 10](https://github.com/DhammikePremachandra/codingTasks/tree/main/Triathlon%20Time%20Calculator)
-
+1. [Task 1](https://github.com/DhammikePremachandra/codingTasks/tree/main/Alternate%20Case%20Converter): Alternate Case Converter.
+2. [Task 2](https://github.com/DhammikePremachandra/codingTasks/tree/main/Calculate%20the%20Total%20Holiday%20Cost): Calculate the Total Holiday Cost.
+3. [Task 3](https://github.com/DhammikePremachandra/codingTasks/tree/main/Calculate%20the%20Total%20Stock%20Worth%20in%20the%20Cafe): Calculate the 
+Total Stock Worth in the Cafe.
+4. [Task 4](https://github.com/DhammikePremachandra/codingTasks/tree/main/Continuously%20Calculate%20Average%20of%20User%20Inputs): Continuously 
+Calculate Average of User Inputs. 
+5. [Task 5](https://github.com/DhammikePremachandra/codingTasks/tree/main/Extracting%20Names%20and%20Birthdates%20from%20Text%20File): Extracting 
+Names and Birthdates from Text file.
+6. [Task 6](https://github.com/DhammikePremachandra/codingTasks/tree/main/Get%20Three%20Different%20Integers%20from%20User): Get Three Different 
+Integers from User.
+7. [Task 7](https://github.com/DhammikePremachandra/codingTasks/tree/main/Output%20of%20the%20Arrow%20Head%20Shape%20Star%20Pattern): Output of 
+the Arrow Head Shape Star Pattern.
+8. [Task 8](https://github.com/DhammikePremachandra/codingTasks/tree/main/Register%20Students%20for%20an%20Exam%20Venue): Register Students for 
+an Exam Venue.
+9. [Task 9](https://github.com/DhammikePremachandra/codingTasks/tree/main/Sentence%20Manipulation%20Program): Sentence Manipulation Program.
+10. [Task 10](https://github.com/DhammikePremachandra/codingTasks/tree/main/Triathlon%20Time%20Calculator): Triathlon Time Calculator.
 
 Continue to explore and engage with the tasks to enhance your skills 
 and understanding of data science and Python programming concepts.
