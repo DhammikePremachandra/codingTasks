@@ -65,6 +65,7 @@ the Arrow Head Shape Star Pattern.
 an Exam Venue.
 9. [Task 9](https://github.com/DhammikePremachandra/codingTasks/tree/main/Sentence%20Manipulation%20Program): Sentence Manipulation Program.
 10. [Task 10](https://github.com/DhammikePremachandra/codingTasks/tree/main/Triathlon%20Time%20Calculator): Triathlon Time Calculator.
+11. [Task 11](https://github.com/DhammikePremachandra/codingTasks/tree/main/Email_Simulator):Email Inbox Simulation
 
 Continue to explore and engage with the tasks to enhance your skills 
 and understanding of data science and Python programming concepts.
